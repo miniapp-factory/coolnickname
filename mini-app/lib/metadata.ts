@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Nickname Generator App";
+export const description = "Generate cool nicknames based on a keyword.";
 export const url = process.env.NEXT_PUBLIC_URL;
